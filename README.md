@@ -3,8 +3,11 @@
 This repository contains the code and data for
 
 Title: Leveraging Quality Prediction Models for Automatic Writing Feedback
+
 Authors: Hamed Nilforoshan and Eugene Wu
+
 Conference: ICWSM 2018
+
 
 We collected all data on Amazon's Mechanical Turk, per the experiment design descriptions in the above paper. Data is organized as follows:
 
